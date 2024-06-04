@@ -1,4 +1,4 @@
 # BigTwo-Card-Game
 
 ## Description
-This project builds a Big Two Card Game using Java.
+This project builds a Big Two Card Game with GUI using Java.
